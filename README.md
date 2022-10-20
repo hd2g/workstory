@@ -44,11 +44,23 @@
 - 業種: ソフトウェア会社
 - 業務名: 新規ツールの開発及び既存ツールの改修
 - 業務内容:
+  - エスカレーション作業の自動化,監視システムの提案及びモック作成
+    - PagerDuty Rest APIを使用した、エスカレーション業務の自動化及び監視システムの構築
+      - TypeScript,React.js,AWS Lambda,AWS API Gateway,AWS S3を使用
+      - git,GitLabにてバージョン管理
+      - JIRAにてタスク管理
+      - Confluenceにて情報共有
+  - 既存ExcelVBAツールの機能追加
+  - 新規ExcelVBAツールの作成
+    - DOS Command,BATファイルと連携したデータ加工
+    - Excel,PowerPointレポートファイルの作成
 - OS: Windows10
 - 言語:
   - ExcelVBA
   - TypeScript
   - Python3
+    - チーム内,私的ツール作成に使用
+      - 週次レポートの作成
 - 役割
   - [ ] Pマネージャー
   - [ ] Pリーダー
