@@ -14,30 +14,16 @@
 
 ## 言語,ツール
 <!-- TODO(#): 業務経歴から自動算出 -->
-### ExcelVBA
-- 期間: 4年6ヶ月
-
-### OutlookVBA
-- 期間: 4年4ヶ月
-
-### PowerPointVBA
-- 期間: 2年0ヶ月
-
-### VBScript
-- 期間: 4年4ヶ月
-
-### JScript
-- 期間: 4年4ヶ月
-
-### BAT
-- 期間: 4年4ヶ月
-
-### Windows10
-- 期間: 4年6ヶ月
-
-### Access
-- 期間: 3年6ヶ月
-
+|名前|期間|
+|---|---|
+|ExcelVBA|4年6ヶ月|
+|OutlookVBA|4年4ヶ月|
+|PowerPointVBA|2年0ヶ月|
+|VBScript|4年4ヶ月|
+|JScript|4年4ヶ月|
+|BAT|4年4ヶ月|
+|Windows10|4年6ヶ月|
+|Access|3年6ヶ月|
 
 ## 業務経歴
 ### 2021/07 - 2022/05
