@@ -22,6 +22,7 @@
 |VBScript|4年4ヶ月|
 |JScript|4年4ヶ月|
 |BAT|4年4ヶ月|
+|TypeScript|0年8ヶ月|
 |Windows10|4年6ヶ月|
 |Access|3年6ヶ月|
 
