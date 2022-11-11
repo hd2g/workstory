@@ -15,7 +15,7 @@
     - 新規データベース(Access)の構築
     - 移行作業自動化ツールの作成(ExcelVBA)
     - 検索ツールの作成(ExcelVBA):
-      - 印刷用の整形及び印刷機能
+      - 印刷用の整形及び印刷機能付き
   - 部署内にて発生する長時間事務作業の自動化(VBScript,BAT,ExcelVBA,OutlookVBA)
   - Azure上にて運用中のシステムデータから、月次レポートを作成するツールの開発(ExcelVBA,PowerPointVBA)
     - xlsxファイルから各種グラフを作成 -> パワーポイントへ貼り付け
@@ -88,9 +88,11 @@
     - チーム内,私的ツール作成に使用
       - 週次レポートの作成
 - 役割
+
   |マネージャー|リーダー|調査,分析|要件,基本設計|詳細設計|開発,テスト|結合テスト|指導,教育|運用,保守|
   |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-  |||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||
+  |||✔️|✔️|✔️|✔️|✔️|||
+
 - 業務内容:
   <details>
   
@@ -117,9 +119,11 @@
   - Azure cli
   - C#
 - 役割
+
   |マネージャー|リーダー|調査,分析|要件,基本設計|詳細設計|開発,テスト|結合テスト|指導,教育|運用,保守|
   |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-  |||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||
+  |||✔️|✔️|✔️|✔️|✔️|||
+
 - 業務内容:
   <details>
   
@@ -144,14 +148,18 @@
   - JScript
   - BAT
 - 役割
+
   |マネージャー|リーダー|調査,分析|要件,基本設計|詳細設計|開発,テスト|結合テスト|指導,教育|運用,保守|
   |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-  |||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+  |||✔️|✔️|✔️|✔️|✔️|✔️|✔️|
+
 - 業務内容:
   <details>
   
     - 業務改善,人事評価等の為のデータ集計,簡易分析,レポート作成
+      - データ収集の際にIE+ExcelVBAにて社内サイトのクローリング,必要ページのスクレイピングツールを作成,使用
     - 営業業務支援ツール作成
+      - ExcelVBAにてCSV等データの取り込み,加工からPowerPointレポート作成まで行うツールを作成,保守
     - 会計作業自動化ツール(改修,機能追加)
     - 支部内,一部地域を除いた全国各支店の事務作業の自動化ツール作成
   
@@ -171,9 +179,11 @@
   - JScript
   - BAT
 - 役割
+
   |マネージャー|リーダー|調査,分析|要件,基本設計|詳細設計|開発,テスト|結合テスト|指導,教育|運用,保守|
   |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-  |||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|
+  |||✔️|✔️|✔️|✔️|✔️||✔️|
+
 - 業務内容:
   <details>
   
@@ -194,9 +204,11 @@
   - ExcelVBA
   - OutlookVBA
 - 役割
+
   |マネージャー|リーダー|調査,分析|要件,基本設計|詳細設計|開発,テスト|結合テスト|指導,教育|運用,保守|
   |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-  |||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|
+  |||✔️|✔️|✔️|✔️|✔️||✔️|
+
 - 業務内容:
   <details>
   
@@ -224,9 +236,11 @@
   - R(3.5.3)
   - Python3
 - 役割
+
   |マネージャー|リーダー|調査,分析|要件,基本設計|詳細設計|開発,テスト|結合テスト|指導,教育|運用,保守|
   |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-  |||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|
+  |||✔️|✔️|✔️|✔️|✔️||✔️|
+
 - 業務内容:
   <details>
   
